@@ -1,6 +1,6 @@
 # 📝 Keeper Note App
 
-A full stack MERN note taking app inspired by Google Keep. I built this to sharpen my React and Express skills, understand full stack integration, and gain hands on experience with real world deployment.
+Developed and Deployed a full stack MERN note taking app. I built this to sharpen my React and Express skills, understand full stack integration, and gain hands on experience with real world deployment.
 ---
 
 ## 🚀 Live Demo
