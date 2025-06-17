@@ -1,34 +1,34 @@
-# Keeper Note App
+# 🗒️ Keeper Note App
 
-A responsive full-stack note-taking app built using the **MERN** stack.  
-Developed to reinforce skills in React and Express, explore full-stack integration, and gain hands-on deployment experience.
+A minimalist, full-stack note-taking app built with the **MERN stack**.  
+This project showcases CRUD functionality, responsive design, and end-to-end deployment using **React**, **Express**, and **MongoDB Atlas**.
 
-## Live Demo
+---
 
-[👉 Try the Live App](https://keeper-note-app.onrender.com)
+## 🚀 Live Demo
 
-## Screenshot
+👉 [Launch the App](https://keeper-note-app.onrender.com)
+
+---
+
+## 🖼️ App Preview
 
 ![Keeper Note App Screenshot](./images/screenshot.png)
 
-## Tech Stack
+---
 
-### Frontend
-- React (Hooks)
-- Vite
-- Custom CSS
+## ⚙️ Tech Stack
 
-### Backend
-- Node.js
-- Express.js
-- MongoDB Atlas (via Mongoose)
-- dotenv
-- Deployed on Render
+- **Frontend:** React (Hooks), Vite, Custom CSS
+- **Backend:** Node.js, Express.js, MongoDB Atlas
+- **Other:** Mongoose, dotenv, Render (for deployment)
 
-## Features
+---
+
+## ✨ Features
 
 - Create, edit, and delete notes
-- Real-time UI updates
+- Auto-updating React UI
 - MongoDB data persistence
-- Responsive and mobile-friendly design
+- Fully responsive (desktop + mobile)
 - Single-page full-stack deployment
