@@ -1,6 +1,6 @@
 # 🗒️ Keeper Note App
 
-A minimalistic, full-stack note-taking app built with the **MERN stack**.  
+A minimalist, full-stack note-taking app built with the **MERN stack**.  
 This project showcases CRUD functionality, responsive design, and end-to-end deployment using **React**, **Express**, and **MongoDB Atlas**.
 
 ---
