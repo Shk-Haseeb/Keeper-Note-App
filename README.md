@@ -32,5 +32,5 @@ Note-taking is a common productivity need, but many tools are bloated or overly 
 ### Tech Stack
 
 - **Frontend:** React (Hooks), Vite, Custom CSS  
-- **Backend:** Node.js, Express.js, MongoDB Atlas  
+- **Backend:** Node.js, Express.js, MongoDB  
 - **Other:** Mongoose, dotenv, Render
