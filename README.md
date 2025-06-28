@@ -1,6 +1,6 @@
-# Keeper Note App
+## Keeper Note App
 
-A minimalist full-stack note-taking app built with the **MERN stack**. Designed to be clean, fast, and fully responsive, this app demonstrates end-to-end CRUD functionality and cloud deployment using **React**, **Express**, and **MongoDB Atlas**.
+Keeper is a minimalist full stack note taking app built with the **MERN stack**. Designed to be clean, fast, and fully responsive, it supports full **CRUD** functionality and is deployed with **React**, **Express**, and **MongoDB Atlas**. I built Keeper to address the need for a lightweight alternative to bloated note taking tools, while also using it as a way to sharpen my skills in **full stack development**; particularly in **frontend and backend integration**, **RESTful APIs**, and **cloud deployment**.
 
 ---
 
@@ -15,17 +15,12 @@ A minimalist full-stack note-taking app built with the **MERN stack**. Designed 
 
 ---
 
-### Why I Built This  
-Note-taking is a common productivity need, but many tools are bloated or overly complex. I built Keeper as a lightweight solution to practice building a full-stack app with seamless frontend-backend integration, and to refine my skills in **React, RESTful APIs, and cloud deployment**.
-
----
-
 ### Features  
-- 📝 Create, edit, and delete notes  
-- ⚡ Real-time UI updates with React Hooks  
-- ☁️ Cloud data persistence with MongoDB Atlas  
-- 📱 Fully responsive on desktop and mobile  
-- 🌐 Deployed as a single-page app on Render
+- Create, edit, and delete notes  
+- Real-time UI updates with React Hooks  
+- Cloud data persistence with MongoDB Atlas  
+- Fully responsive on desktop and mobile  
+- Deployed as a single-page app on Render
 
 ---
 
