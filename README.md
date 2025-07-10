@@ -27,5 +27,4 @@ Keeper is a minimalist full stack note taking app built with the **MERN stack**.
 ### Tech Stack
 
 - **Frontend:** React (Hooks), Vite, Custom CSS  
-- **Backend:** Node.js, Express.js, MongoDB  
-- **Other:** Mongoose, dotenv, Render
+- **Backend:** Node.js, Express.js, MongoDB
